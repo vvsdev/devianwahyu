@@ -9,6 +9,7 @@ My name is Devian Wahyu Setiyawan, I'm a student who love develop an apps. I hav
 
 
 ### **Technologies & Tools**
-![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Database-MySql-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=477bd6)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=ec2025)
+![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=f0db4f)
+![](https://img.shields.io/badge/Database-MySql-informational?style=flat&logo=mysql&logoColor=white&color=ffa518)
