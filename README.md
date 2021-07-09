@@ -3,8 +3,12 @@
 My name is Devian Wahyu Setiyawan, last year computer science student who love develop an apps. I have experience in developing Frontend (ReactJS) and Mobile apps (Kotlin, React Native). I love learn something new and also love to work with a team.
 
 ### **Github Stats**
-![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=devianwahyu&hide=php,css,html&text_color=c9cacc&title_color=ffffff&icon_color=2bbc8a&bg_color=1d1f21)
-![github stats](https://github-readme-stats.vercel.app/api?username=devianwahyu&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
+<a href="https://github.com/devianwahyu/devianwahyu">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devianwahyu&hide=php,css,html&layout=compact&langs_count=8" />
+</a>
+<a href="https://github.com/devianwahyu/devianwahyu">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=devianwahyu&show_icons=true&line_height=24&count_private=true" alt="Aldiwildan's GitHub Values" />
+</a>
 
 ### **Technologies & Tools**
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=477bd6)
