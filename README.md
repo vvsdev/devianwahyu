@@ -11,10 +11,12 @@ My name is Devian Wahyu Setiyawan, last year computer science student who love d
 </a>
 
 ### **Technologies & Tools**
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=B0B3D6)
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=477bd6)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=ec2025)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=f0db4f)
-![](https://img.shields.io/badge/Code-ReactJS-informational?style=flat&logo=react&logoColor=6AD3F3&color=212121)
+![](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=F05340)
+![](https://img.shields.io/badge/Framework-ReactJS-informational?style=flat&logo=react&logoColor=6AD3F3&color=212121)
 ![](https://img.shields.io/badge/Database-MySql-informational?style=flat&logo=mysql&logoColor=white&color=ffa518)
 
 ### **Find Me**
