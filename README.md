@@ -1,6 +1,6 @@
 ## **Hello, All!** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Devian Wahyu Setiyawan, last year computer science student who love develop an apps. I have experience in developing Frontend (ReactJS) and Mobile apps (Kotlin, React Native). I love learn something new and also love to work with a team.
+My name is Devian Wahyu Setiyawan, last year computer science student who love develop an apps. I have experience in developing Frontend (ReactJS), Backend (Laravel, NodeJS) and Mobile apps (Kotlin, Flutter). I love learn something new and also love to work with a team.
 
 ### **Github Stats**
 <a href="https://github.com/devianwahyu/devianwahyu">
@@ -21,3 +21,4 @@ My name is Devian Wahyu Setiyawan, last year computer science student who love d
 - <a href="https://www.linkedin.com/in/devian-wahyu-setiyawan-a7594b205/" target="_blank">LinkedIn</a>
 - <a href="https://www.instagram.com/devianwahyudi/" target="_blank">Instagram</a>
 - <a href="https://www.youtube.com/channel/UCI0Ioav2pmDpPVDX3LW2mNQ" target="_blank">Youtube</a>
+- <a href="https://devianwahyu.github.io" target="_blank">Site</a>
