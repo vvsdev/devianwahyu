@@ -1,6 +1,5 @@
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> **Hello, I'm Devian**
-
-I'm a <b>Software Engineer</b> and last year student in computer science faculty. I have experience in developing fullstack web application (ReactJS, NextJS, NodeJS, ExpressJS, Mysql, etc). I  love learn something new and also love to work with a team.
+<p>I'm a <b>Software Engineer</b> and last year student in computer science faculty. I have experience in developing fullstack web application (ReactJS, NextJS, NodeJS, ExpressJS, Mysql, etc). I  love learn something new and also love to work with a team.</p>
 
 ### **Github Stats**
 <a href="https://github.com/devianwahyu/devianwahyu">
