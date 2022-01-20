@@ -17,7 +17,9 @@
 ### **Technologies**
 <p>
     <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-82B155?style=flat-square&logo=nodedotjs&logoColor=white" />
+    <img alt="ExpressJS" src="https://img.shields.io/badge/-Express-FFFFFF?style=flat-square&logo=express&logoColor=black" />
     <img alt="Mysql" src="https://img.shields.io/badge/-MySQL-1E4273?style=flat-square&logo=mysql&logoColor=white" />
+    <img alt="Postgres" src="https://img.shields.io/badge/-Postgres-30628A?style=flat-square&logo=postgresql&logoColor=white" />
     <img alt="ReactJS" src="https://img.shields.io/badge/-ReactJS-68CFEF?style=flat-square&logo=react&logoColor=white" />
     <img alt="NextJS" src="https://img.shields.io/badge/-NextJS-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
     <img alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-4D9FAA?style=flat-square&logo=tailwindcss&logoColor=white" />
@@ -26,6 +28,7 @@
 ### **Tools**
 <p>
     <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-3D7CB1?style=flat-square&logo=visualstudiocode&logoColor=white" />
+    <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-39047F?style=flat-square&logo=insomnia&logoColor=white" />
     <img alt="Git" src="https://img.shields.io/badge/-Git-E44C30?style=flat-square&logo=git&logoColor=white" />
     <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
     <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-26517B?style=flat-square&logo=netlify&logoColor=white" />
