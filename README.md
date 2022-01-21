@@ -18,6 +18,7 @@
 <p>
     <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-82B155?style=flat-square&logo=nodedotjs&logoColor=white" />
     <img alt="ExpressJS" src="https://img.shields.io/badge/-Express-FFFFFF?style=flat-square&logo=express&logoColor=black" />
+    <img alt="Sequelize" src="https://img.shields.io/badge/-Sequelize-30628A?style=flat-square&logo=sequelize&logoColor=white" />
     <img alt="Mysql" src="https://img.shields.io/badge/-MySQL-1E4273?style=flat-square&logo=mysql&logoColor=white" />
     <img alt="Postgres" src="https://img.shields.io/badge/-Postgres-30628A?style=flat-square&logo=postgresql&logoColor=white" />
     <img alt="ReactJS" src="https://img.shields.io/badge/-ReactJS-68CFEF?style=flat-square&logo=react&logoColor=white" />
@@ -33,6 +34,13 @@
     <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
     <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-26517B?style=flat-square&logo=netlify&logoColor=white" />
     <img alt="XAMPP" src="https://img.shields.io/badge/-XAMPP-E56028?style=flat-square&logo=xampp&logoColor=white" />
+</p>
+
+### **Process**
+<p>
+    <img alt="Docker" src="https://img.shields.io/badge/-Docker-488EE1?style=flat-square&logo=docker&logoColor=white" />
+    <img alt="RabbitMQ" src="https://img.shields.io/badge/-RabbitMQ-E86029?style=flat-square&logo=rabbitmq&logoColor=white" />
+    <img alt="Mongo" src="https://img.shields.io/badge/-Mongo-72AF60?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
 ### **Find Me**
