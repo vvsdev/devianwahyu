@@ -6,48 +6,19 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=devianwahyu&show_icons=true&line_height=24&count_private=true" alt="devianwahyu's GitHub Values" />
 </a>
 
-### **Languages**
-<p>
-    <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E56028?style=flat-square&logo=html5&logoColor=white" />
-    <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-488EE7?style=flat-square&logo=css3&logoColor=white" />
-    <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-EAD41C?style=flat-square&logo=javascript&logoColor=black" />
-    <img alt="Java" src="https://img.shields.io/badge/-Java-DB4859?style=flat-square&logo=java&logoColor=black" />
-</p>
+### **Technologies & Tools**
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=FCC624)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=FCC624)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
+![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=00acd7)
+![](https://img.shields.io/badge/Library-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB)
 
-### **Technologies**
-<p>
-    <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-82B155?style=flat-square&logo=nodedotjs&logoColor=white" />
-    <img alt="ExpressJS" src="https://img.shields.io/badge/-Express-FFFFFF?style=flat-square&logo=express&logoColor=black" />
-    <img alt="Sequelize" src="https://img.shields.io/badge/-Sequelize-30628A?style=flat-square&logo=sequelize&logoColor=white" />
-    <img alt="Mysql" src="https://img.shields.io/badge/-MySQL-1E4273?style=flat-square&logo=mysql&logoColor=white" />
-    <img alt="Postgres" src="https://img.shields.io/badge/-Postgres-30628A?style=flat-square&logo=postgresql&logoColor=white" />
-    <img alt="ReactJS" src="https://img.shields.io/badge/-ReactJS-68CFEF?style=flat-square&logo=react&logoColor=white" />
-    <img alt="NextJS" src="https://img.shields.io/badge/-NextJS-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-    <img alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-4D9FAA?style=flat-square&logo=tailwindcss&logoColor=white" />
-</p>
-
-### **Tools**
-<p>
-    <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-3D7CB1?style=flat-square&logo=visualstudiocode&logoColor=white" />
-    <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-39047F?style=flat-square&logo=insomnia&logoColor=white" />
-    <img alt="Git" src="https://img.shields.io/badge/-Git-E44C30?style=flat-square&logo=git&logoColor=white" />
-    <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-    <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-26517B?style=flat-square&logo=netlify&logoColor=white" />
-    <img alt="XAMPP" src="https://img.shields.io/badge/-XAMPP-E56028?style=flat-square&logo=xampp&logoColor=white" />
-</p>
-
-### **Process**
-<p>
-    <img alt="Docker" src="https://img.shields.io/badge/-Docker-488EE1?style=flat-square&logo=docker&logoColor=white" />
-    <img alt="RabbitMQ" src="https://img.shields.io/badge/-RabbitMQ-E86029?style=flat-square&logo=rabbitmq&logoColor=white" />
-    <img alt="Mongo" src="https://img.shields.io/badge/-Mongo-72AF60?style=flat-square&logo=mongodb&logoColor=white" />
-</p>
 
 ### **Find Me**
-<a href="https://www.linkedin.com/in/devian-wahyu-setiyawan-a7594b205/">
+<a href="https://www.linkedin.com/in/devian-ws/">
   <img align="left" alt="Linkedin" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/devianwahyudi/">
+<a href="https://www.instagram.com/devianws/">
   <img align="left" alt="Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/instagram.svg" />
 </a>
 <a href="https://github.com/devianwahyu">
@@ -56,7 +27,7 @@
 <a href="https://discordapp.com/users/devs#6980/">
   <img align="left" alt="Discord" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/discord.svg" />
 </a>
-<a href="devianwahyu666@gmail.com">
+<a href="setiyawan.dev@gmail.com">
   <img align="left" alt="Discord" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCI0Ioav2pmDpPVDX3LW2mNQ">
